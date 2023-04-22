@@ -30,7 +30,6 @@ class _KeyBoardState extends State<KeyBoard> {
   void initState(){
     super.initState();
     recorder.init();
-    print("Fuck");
   }
 
   @override
